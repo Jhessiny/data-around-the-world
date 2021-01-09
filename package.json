@@ -1,0 +1,15 @@
+{
+  "name": "dataaroundtheworld",
+  "version": "1.0.0",
+  "description": "web app to show law about data protection around the world",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "jhessiny mattos",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pug": "^3.0.0"
+  }
+}
